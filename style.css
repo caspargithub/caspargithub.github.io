@@ -1,0 +1,67 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  background-image: url("EPIC THING2.png");
+}
+header {
+  text-align: center;
+  background-color: #2e1cce;
+  width: 600px;
+  height: 80px;
+  border-radius: 10px;
+  margin: 20px;
+  background-image: url("EPIC THING2.png");
+}
+button {
+  margin: 20px;
+  margin-right: 0px;
+  border-radius: 15px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  background-color: #2e1cce;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+  opacity: 0.6;
+  transition: 0.3s; 
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+  box-shadow: 3px 5px 9px black
+}
+.button:hover {
+  opacity: 1; 
+  box-shadow: 5px 10px 18px black
+}
+
+table {
+  border: black 2px solid;
+  box-shadow: 5px 10px 18px black
+}
+
+th {border: black 2px solid;}
+
+
+
+section {
+  padding-left: 20px;
+
+}
+#wrapper {
+  width: 800px;
+  margin: auto;
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+  color: black;
+}
+
+iframe {border-radius: 20px;
+box-shadow: 5px 10px 18px black;
+}
+
+.epic {
+
+}
